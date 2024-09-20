@@ -1,0 +1,1 @@
+%KAFKA_HOME%\bin\windows\kafka-topics.bat --create --topic KRAFT-DEMO --bootstrap-server localhost:9098 --partitions 3 --replication-factor 1

@@ -1,0 +1,1 @@
+%KAFKA_HOME%\bin\windows\kafka-console-consumer.bat --topic KRAFT-DEMO --bootstrap-server localhost:9098 --from-beginning
